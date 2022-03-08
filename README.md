@@ -1,4 +1,4 @@
-# Introduction To It
+# Introduction To IT
 
 **Curriculum Developer:** Alex DiStasi
 
